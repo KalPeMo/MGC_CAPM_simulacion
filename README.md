@@ -2,6 +2,8 @@
 
 Saludos,
 
+Por favor ejecute desde Colab el archivo con extensión *.ipynb
+
 Nuestro script es muy sencillo, implementa desde sus primeras líneas la carga del archivo *.csv de la base de datos desde el repositorio de UCI.
 
 PARA TENER EN CUENTA:
